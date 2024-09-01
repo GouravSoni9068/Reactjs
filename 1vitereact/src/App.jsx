@@ -2,7 +2,7 @@ import Chai from './script.jsx'
 
 function App() {
   return (
-    <Chai />
+    Chai()
   )
 }
 
